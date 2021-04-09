@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{359:function(n,e,t){"use strict";t.r(e);var s={},u=t(45),i=Object(u.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("div",{},[this._v("\n    我是vue组件\n")])}),[],!1,null,null,null);e.default=i.exports}}]);
